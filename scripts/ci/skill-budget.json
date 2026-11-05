@@ -1,0 +1,6 @@
+{
+  "file": "SKILL.md",
+  "max_words": 4300,
+  "baseline_words": 4101,
+  "note": "main count + ~5%. Raise max_words only deliberately, with justification in the PR."
+}
